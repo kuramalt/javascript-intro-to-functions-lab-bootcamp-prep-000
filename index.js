@@ -22,7 +22,7 @@ function sayHiToGrandma (string)
 {
   
   if string === lowercase
-     "I can\'t hear you!"
+    console.log("I can\'t hear you!")
   else
     if string === uppercase
       return "YES INDEED!"
