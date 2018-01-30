@@ -27,5 +27,5 @@ function sayHiToGrandma (string)
     if string === uppercase
       return "YES INDEED!"
     else 
-      return ""
+      return "I love you, too."
 }
